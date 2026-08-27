@@ -1,0 +1,6 @@
+{
+  "name": "ERP Work Order Planning",
+  "description": "A modern, highly responsive redesign of a legacy manufacturing ERP header form featuring a 2-page planning and routing workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
